@@ -3,6 +3,8 @@
 
 Программа для создания PDF из HTML шаблонов.  
 Вставить переменные типа `{title}` — подставляются значения из JSON.
+
+
 <img width="1414" height="887" alt="image" src="https://github.com/user-attachments/assets/839126d6-60e0-493b-baea-be69ab7ac40c" />
 
 

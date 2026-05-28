@@ -63,6 +63,8 @@ python main.py
 | POST | `/render/{id}` | Сгенерировать PDF |
 | POST | `/preview/{id}` | HTML предпросмотр |
 
+превью сделано через post потому что не поддерживавет body
+
 ## Шрифт
 
 Для PDF с русскими буквами нужен шрифт `times.ttf` в папке `fonts/`

@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7c936a-36cd-47a4-9279-30f0d26ad466" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/arial.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/times.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pdf-templates-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pdf-templates-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -87,7 +82,7 @@
       <workItem from="1779630183212" duration="8086000" />
       <workItem from="1779738272322" duration="537000" />
       <workItem from="1779809397667" duration="96000" />
-      <workItem from="1779986463319" duration="6215000" />
+      <workItem from="1779986463319" duration="7467000" />
     </task>
     <servers />
   </component>

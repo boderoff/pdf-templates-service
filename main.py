@@ -247,8 +247,8 @@ HTML_UI = '''
                 <div id="editor"></div>
                 <div class="fields-panel">
                     <div class="mode-switch">
-                        <button class="mode-btn active" onclick="setMode('fields')">📝 Режим полей</button>
-                        <button class="mode-btn" onclick="setMode('json')">🔧 Режим JSON</button>
+                        <button class="mode-btn active" onclick="setMode('fields')">Режим полей</button>
+                        <button class="mode-btn" onclick="setMode('json')"> Режим JSON</button>
                     </div>
                     <div id="fieldsMode">
                         <div id="fieldsList"></div>

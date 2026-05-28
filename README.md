@@ -5,7 +5,8 @@
 Вставить переменные типа `{title}` — подставляются значения из JSON.
 
 
-<img width="1414" height="887" alt="image" src="https://github.com/user-attachments/assets/839126d6-60e0-493b-baea-be69ab7ac40c" />
+<img width="1409" height="900" alt="image" src="https://github.com/user-attachments/assets/2401b1f6-8633-4e0f-9efd-5c02f3a6aef4" />
+
 
 
 ##  стек
